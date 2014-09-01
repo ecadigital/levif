@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>LEVIF</title>
+    <title>LEVIFs</title>
     
     <!-- Owl Carousel Assets -->
     <link href="css/owl-carousel/owl.carousel.css" rel="stylesheet">
